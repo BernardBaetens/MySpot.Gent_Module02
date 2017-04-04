@@ -1,0 +1,25 @@
+<RCC>
+  <qresource prefix="Resources">
+    <file>Resources/Google_Earth_Icon.png</file>
+    <file>Resources/walking_03.png</file>
+    <file>Resources/walking_02.png</file>
+    <file>Resources/bicycle.svg</file>
+    <file>Resources/car.png</file>
+    <file>Resources/park-garage_02.svg</file>
+    <file>Resources/extent.png</file>
+    <file>Resources/train.svg</file>
+    <file>Resources/transport_taxi_rank.png</file>
+    <file>Resources/transport_rental_car.png</file>
+    <file>Resources/P+R.png</file>
+    <file>Resources/cursor.png</file>
+    <file>Resources/bicycle.png</file>
+    <file>Resources/compass.png</file>
+    <file>Resources/information.png</file>
+    <file>Resources/pan.png</file>
+    <file>Resources/Rafa.png</file>
+    <file>Resources/Rafa_icon.png</file>
+    <file>Resources/walking.png</file>
+    <file>Resources/zoom-in.png</file>
+    <file>Resources/zoom-out.png</file>
+  </qresource>
+</RCC>
